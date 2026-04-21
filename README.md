@@ -18,7 +18,6 @@ The pipeline is efficient and ready to scale.
   
 ## Datasets 
 
-The training and testing images are hosted in a separate repository:
 🔗 [Filter_Toxic_Comments_dataset](https://proai-datasets.s3.eu-west-3.amazonaws.com/Filter_Toxic_Comments_dataset.csv)
 
 ## Library
